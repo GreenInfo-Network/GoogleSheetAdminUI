@@ -9,6 +9,10 @@ The specific use case described is as follows:
 * The map which is powered by this JSON file is expecting JSON but not necessarily GeoJSON. This suits a use case in which a record can have multiple points, but the 3 addresses can otherwise be treated differently (different icons for primary & secondary, for example).
 * There exists some mechanism by which the user can paste the resulting JSON into the web map. This may be FTP, file upload, etc. But they would replace the map's JSON file with this new JSON file, and changes would be instantly effective.
 
+ # Demo
+ 
+https://docs.google.com/spreadsheets/d/1uHQDLAu_E2x1ofiS4NHT8OoSd4vQYPtw1UQqQyBMXqQ/edit#gid=0
+ 
 # Credits
 
 GreenInfo pruned and cleaned the code for our use case, but the original code was written by others.
